@@ -86,3 +86,7 @@ a.nav-link {
   color: #3AAFA9;
   border: solid 2px;
 }
+
+.display-1 {
+  text-decoration: underline;
+}
